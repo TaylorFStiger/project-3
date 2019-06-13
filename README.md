@@ -1,3 +1,6 @@
+Deployed to: https://lit-wave-29084.herokuapp.com/
+
+
 ![CashCal](/client/public/images/cashcal2.png)
 
 ***
